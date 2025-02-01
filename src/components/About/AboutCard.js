@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a flutter developer and React js at Bizott.
             <br />
-            I have completed BCA in sutex bank colleage of computer application and science.
+            I have completed BCA in sutex bank college of computer application and science in 2021.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
