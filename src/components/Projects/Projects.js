@@ -50,7 +50,7 @@ To maximise your chances of success in MegaMoves, ensure that you carefully anal
                 isBlog={false}
                 title="Oneflix - Unify Your Streaming"
                 description="Oneflix is a streaming guide that allows you to unify your streaming services. Use one dashboard to browse content across all your major streaming services, including Disney Plus, HBO Max, Amazon Prime Video, and many others."
-                ghLink="https://github.com/soumyajit4419/Chatify"
+                ghLink="https://play.google.com/store/apps/details?id=com.oneflix.streaming.guide.app"
             />
           </Col>
           <Col md={4} className="project-card">
